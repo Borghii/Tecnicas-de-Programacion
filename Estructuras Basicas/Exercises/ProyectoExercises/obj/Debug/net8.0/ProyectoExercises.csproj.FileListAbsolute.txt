@@ -1,0 +1,15 @@
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/bin/Debug/net8.0/ProyectoExercises
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/bin/Debug/net8.0/ProyectoExercises.deps.json
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/bin/Debug/net8.0/ProyectoExercises.runtimeconfig.json
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/bin/Debug/net8.0/ProyectoExercises.dll
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/bin/Debug/net8.0/ProyectoExercises.pdb
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.AssemblyInfoInputs.cache
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.AssemblyInfo.cs
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.csproj.CoreCompileInputs.cache
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.sourcelink.json
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.dll
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/refint/ProyectoExercises.dll
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.pdb
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ProyectoExercises.genruntimeconfig.cache
+/workspaces/Tecnicas-de-Programacion/Estructuras Basicas/Exercises/ProyectoExercises/obj/Debug/net8.0/ref/ProyectoExercises.dll
