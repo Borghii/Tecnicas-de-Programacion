@@ -11,7 +11,12 @@ namespace HolaMundo{
         //ExerciseThree();
         //ExerciseFour();
 
-        Console.WriteLine(Exercise6.run(29));
+        //Console.WriteLine(Exercise6.run(29));
+
+        Cuadrado cuad = new Cuadrado();
+        cuad.Incializar();
+        cuad.Perimetro();
+        cuad.Area();
         
     }
 
