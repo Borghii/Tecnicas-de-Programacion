@@ -1,8 +1,11 @@
 using System;
+using PracticaPoo;
 
-public class Cuadrado{
+namespace PracticaPoo
+{
+    public class Cuadrado{
 
-    private double Lado{get;set;}
+    private double Lado;
 
     public void Incializar(){
         Console.WriteLine("Ingrese lado: ");
@@ -17,4 +20,7 @@ public class Cuadrado{
         Console.WriteLine("El perimetro es: "+Lado*Lado);
     }
 
+    }
+    
 }
+
