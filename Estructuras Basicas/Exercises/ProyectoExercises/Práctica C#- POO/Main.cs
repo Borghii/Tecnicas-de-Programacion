@@ -6,7 +6,7 @@ namespace PracticaPoo{
     static void Main(string[] args)
     {
 
-        Cuenta cuenta = new Cuenta(30000);
+       /*Cuenta cuenta = new Cuenta(30000);
         Cliente cliente = new Cliente("44994806","Tomas","Borghi",cuenta);
 
         Cuenta cuenta2 = new Cuenta(7675.76);
@@ -14,7 +14,20 @@ namespace PracticaPoo{
 
 
         cliente.MostrarSaldo();
-        cliente2.MostrarSaldo();
+        cliente2.MostrarSaldo();*/
+
+        Complejo a = new Complejo(10,12);
+        Complejo b = new Complejo(4,6);
+
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+
+
+        Complejo suma = a+b;
+        Complejo resta = a-b;
+
+        Console.WriteLine("La suma es: "+suma+" la resta es: "+resta);
+
 
     }
     }
