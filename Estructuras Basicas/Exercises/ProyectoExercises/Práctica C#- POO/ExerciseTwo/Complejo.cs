@@ -5,7 +5,7 @@ namespace PracticaPoo{
 
     class Complejo{
 
-        public int ParteReal{get;private set;}
+        public int ParteReal{get; set;}
         public int ParteImaginaria{get;private set;}
 
         public Complejo(int ParteReal, int ParteImaginaria){
