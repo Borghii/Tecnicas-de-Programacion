@@ -3,7 +3,7 @@ using PracticaPoo;
 
 namespace PracticaPoo
 {
-    public class Cuadrado{
+    public class Cuadrados{
 
     private double Lado;
 
