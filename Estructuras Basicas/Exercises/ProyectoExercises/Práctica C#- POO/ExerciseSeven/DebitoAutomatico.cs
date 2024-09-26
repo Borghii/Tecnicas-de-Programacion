@@ -3,7 +3,8 @@ using PracticaPoo;
 
 namespace PracticaPoo{
     class DebitoAutomatico : Llamada{
-        public DebitoAutomatico(string nombreEntidad, int numeroCuenta)
+        public DebitoAutomatico(int numeroAbonado, int numeroOperador, DateTime fechaHorallamada, string nombreEntidad, int numeroCuenta)
+            : base(numeroAbonado, numeroOperador, fechaHorallamada)
         {
             NombreEntidad = nombreEntidad;
             NumeroCuenta = numeroCuenta;

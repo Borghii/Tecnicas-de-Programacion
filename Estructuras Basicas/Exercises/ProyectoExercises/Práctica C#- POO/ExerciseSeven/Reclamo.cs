@@ -9,8 +9,9 @@ namespace PracticaPoo{
        public String? NumeroEspecialista {get;set;}
        public int NumeroReclamo{get;private set;}
 
-       public Reclamo(string Motivo, string NumeroEspecialista){
-
+        public Reclamo(int numeroAbonad, int numeroOperador, DateTime fechaHorallamada, string Motivo, string NumeroEspecialista) 
+            : base(numeroAbonad, numeroOperador, fechaHorallamada){
+        
         this.Motivo = Motivo;
         this.NumeroEspecialista = NumeroEspecialista;
 
@@ -19,7 +20,9 @@ namespace PracticaPoo{
 
        }
 
-        public Reclamo(string Motivo){
+      public Reclamo(int numeroAbonado, int numeroOperador, DateTime fechaHorallamada, string Motivo)
+           : base(numeroAbonado, numeroOperador, fechaHorallamada)
+           {
 
         this.Motivo = Motivo;
         this.NumeroEspecialista = null;

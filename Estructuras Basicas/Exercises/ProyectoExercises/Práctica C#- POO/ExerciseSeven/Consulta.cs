@@ -7,9 +7,12 @@ namespace PracticaPoo{
        public string Motivo{get;set;}
        public int NumeroConsulta{get;set;}
 
-       public Consulta(string Motivo){
+        public Consulta(int numeroAbonado, int numeroOperador, DateTime fechaHorallamada, string Motivo)
+            : base(numeroAbonado, numeroOperador, fechaHorallamada){
+        
+
             this.Motivo = Motivo;
-            
+
             ContadorConsulta++;
             NumeroConsulta = ContadorConsulta;
 
