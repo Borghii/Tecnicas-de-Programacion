@@ -2,7 +2,7 @@ using System;
 using PracticaPoo;
 
 namespace PracticaPoo{
-    class Llamada{
+    abstract class Llamada{
         public Llamada(int numeroAbonado, int numeroOperador, DateTime fechaHorallamada)
         {
             NumeroAbonado = numeroAbonado;
